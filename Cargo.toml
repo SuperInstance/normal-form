@@ -1,0 +1,13 @@
+[package]
+name = "normal-form"
+version = "0.1.0"
+edition = "2021"
+description = "Normal-form (strategic) games: payoff matrices, dominant strategies, Pareto optimality, iterated elimination of strictly dominated strategies, and Nash equilibrium finding"
+license = "MIT OR Apache-2.0"
+authors = ["SuperInstance"]
+repository = "https://github.com/SuperInstance/normal-form"
+keywords = ["game-theory", "nash-equilibrium", "strategic-games", "normal-form"]
+categories = ["mathematics", "science"]
+readme = "README.md"
+
+[dependencies]
